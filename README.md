@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AniketKumar2500 a 12 yrs old boy.
-- 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in C/C++ and Python
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
