@@ -5,7 +5,7 @@ from here i could conclude that the biggest person behind my journey is my dear 
 - 👋 Hi, I’m @AniketKumar2500 a 12 yrs old boy.
 - 👀 I’m interested in C/C++ and Python
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me geek.aniket.coder@gmail.com
+- 📫 How to reach me geek.aniket.coder@gmail.com, https://www.linkedin.com/in/geek-aniket-89393023a/
 
 <!---
 AniketKumar2500/AniketKumar2500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
