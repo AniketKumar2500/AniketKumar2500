@@ -3,7 +3,7 @@ In 2019 November when i was in class 4th, my father who is a big mind brought a 
 
 - 👋 Hi, I’m @AniketKumar2500 a programmer.
 - 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me geek.aniket.coder@gmail.com, https://www.linkedin.com/in/geek-aniket-89393023a/
+- 📫 How to reach me geek.aniket.coder@gmail.com, https://www.linkedin.com/in/geek-aniket-89393023a/, https://www.instagram.com/geekaniket/
 
 <!---
 AniketKumar2500/AniketKumar2500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
